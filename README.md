@@ -9,19 +9,14 @@ to submit submit an issue or a pull request.
 
 ## Installation
 
-Add this line to your application's Gemfile:
+The gem is not yet in rubygems but you can install it like this:
 
-```ruby
-gem 'agreed'
 ```
+git clone git@github.com:dansbits/agreed.git
+cd agreed
 
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install agreed
+bundle exec rake install
+```
 
 ## Usage
 
